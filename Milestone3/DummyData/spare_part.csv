@@ -1,0 +1,51 @@
+PartID,Name,Quantity,UnitPrice
+1,Oil Filter,150,15.99
+2,Air Filter,120,25.50
+3,Brake Pads (Front),80,45.00
+4,Brake Pads (Rear),80,42.00
+5,Spark Plug,300,8.50
+6,Battery 12V,40,120.00
+7,Wiper Blades,200,18.75
+8,Headlight Bulb,150,22.00
+9,Taillight Bulb,150,15.00
+10,Alternator,20,250.00
+11,Starter Motor,25,180.00
+12,Timing Belt,50,65.00
+13,Serpentine Belt,60,35.00
+14,Water Pump,30,85.00
+15,Radiator,15,320.00
+16,Thermostat,80,28.00
+17,Fuel Filter,100,30.00
+18,Fuel Pump,25,150.00
+19,Ignition Coil,70,45.00
+20,Oxygen Sensor,60,75.00
+21,Mass Air Flow Sensor,40,110.00
+22,Catalytic Converter,10,450.00
+23,Muffler,20,130.00
+24,Exhaust Pipe,25,90.00
+25,Shock Absorber (Front),50,85.00
+26,Shock Absorber (Rear),50,85.00
+27,Strut Assembly,40,140.00
+28,Control Arm,35,95.00
+29,Tie Rod End,70,35.00
+30,Ball Joint,60,40.00
+31,Wheel Bearing,80,55.00
+32,CV Joint,45,70.00
+33,Axle Shaft,30,120.00
+34,Clutch Kit,15,280.00
+35,Flywheel,10,350.00
+36,Transmission Fluid (1Qt),250,9.50
+37,Engine Oil (5W-30 1Qt),400,6.50
+38,Engine Oil (0W-20 1Qt),300,7.00
+39,Coolant/Antifreeze (1Gal),150,18.00
+40,Brake Fluid (1Pt),120,8.00
+41,Power Steering Fluid (1Pt),100,7.50
+42,Windshield Washer Fluid (1Gal),200,4.50
+43,Cabin Air Filter,110,22.00
+44,PCV Valve,80,12.00
+45,EGR Valve,30,85.00
+46,Throttle Body,20,180.00
+47,Fuel Injector,60,55.00
+48,Gasket Set,45,45.00
+49,Valve Cover Gasket,70,25.00
+50,Oil Pan Gasket,60,30.00
